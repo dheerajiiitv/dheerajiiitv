@@ -1,0 +1,34 @@
+body {
+  font-family: 'Josefin Slab', serif;
+}
+
+.head h1 {
+  font-size: 50px;
+}
+
+hr {
+  border: 3px solid #8E91A6;
+}
+
+h3 {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.Designation {
+  font-weight: bold;
+}
+
+.head {
+  color: #2d3c49;
+}
+
+.work {
+  color: #7d97ad;
+  font-size: 40px;
+}
+
+.cap a {
+  color: #2d3c49;
+  font-size: 15px;
+}
